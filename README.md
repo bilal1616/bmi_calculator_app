@@ -18,6 +18,6 @@ Flutter ile geliştirilmiş provider mimarisi kullanılarak state yönetimleri s
 
 - Video
 <a href="assets/VKI.mp4">
-  <img src="assets/screen.png" alt="Video Açıklaması" width="300" height="300">
+  <img src="assets/screen.png" alt="Video Açıklaması" height="350">
 </a>
 
